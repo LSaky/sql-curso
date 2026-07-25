@@ -1,0 +1,1 @@
+select * from usuarios WHERE Apellidos IN ('leal varon','santoyo martinez')

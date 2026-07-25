@@ -1,0 +1,1 @@
+select AVG(edad) from usuarios;

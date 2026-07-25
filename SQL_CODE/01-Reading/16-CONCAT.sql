@@ -1,0 +1,1 @@
+select CONCAT(Nombres,' ', Apellidos) AS NombreCompleto from usuarios;

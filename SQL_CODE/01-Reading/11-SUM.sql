@@ -1,0 +1,1 @@
+select SUM(edad) from usuarios;

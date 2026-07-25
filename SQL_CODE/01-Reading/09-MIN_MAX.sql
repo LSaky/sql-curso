@@ -1,0 +1,1 @@
+select MAX(edad) from usuarios;

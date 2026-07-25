@@ -1,0 +1,1 @@
+select count(edad) from usuarios HAVING count(edad ) > 2;

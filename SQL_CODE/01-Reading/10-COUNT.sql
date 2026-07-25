@@ -1,0 +1,1 @@
+select COUNT(edad) from usuarios;

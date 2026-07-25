@@ -1,0 +1,1 @@
+INSERT INTO usuarios (Nombres, Apellidos, Edad, Fecha_inicio, CorreoElectronico) VALUES ('Sara', 'Wuaqueta', 17, '2020-06-09', 'saraguaqueta@gmail.com');
